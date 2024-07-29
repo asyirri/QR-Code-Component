@@ -20,11 +20,7 @@ This is my solution to the [Frontend Mentor QR code component challenge](https:/
    ```bash
    git clone https://github.com/asyirri/frontendmentor-challange1.git
 
-2. **Navigate the project directory:**
-   ```bash
-   cd qr-code-component
-
-3. **Open `index.html` file in a web browser to view the project.**
+2. **Open `index.html` file in a web browser to view the project.**
 
 ## Reflection
 
