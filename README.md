@@ -18,7 +18,7 @@ This is my solution to the [Frontend Mentor QR code component challenge](https:/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/qr-code-component.git
+   git clone https://github.com/asyirri/frontendmentor-challange1.git
 
 2. **Navigate the project directory:**
    ```bash
