@@ -18,7 +18,7 @@ This is my solution to the [Frontend Mentor QR code component challenge](https:/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/asyirri/frontendmentor-challange1.git
+   git clone https://github.com/asyirri/fementor-ch1-qr_qode_component.git
 
 2. **Open `index.html` file in a web browser to view the project.**
 
@@ -28,8 +28,8 @@ I used this challenge to practice my HTML and CSS skills, focusing on responsive
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/asyirri/frontendmentor-challange1/)
-- Live Demo: [Live Site URL](https://asyirri.github.io/frontendmentor-challange1/)
+- Solution URL: [GitHub Repository](https://github.com/asyirri/fementor-ch1-qr_qode_component/)
+- Live Demo: [Live Site URL](https://asyirri.github.io/fementor-ch1-qr_qode_component/)
 
 ## Feedback
 
